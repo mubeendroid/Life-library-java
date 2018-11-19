@@ -23,7 +23,7 @@ Features:
 
 9. Search number in an array
 
-Usage: Please see the sample code provided in the respository.
+Usage: Please see the sample code provided in the repository.
 
 
 License
