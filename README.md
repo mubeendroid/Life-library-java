@@ -3,6 +3,28 @@ Life library (Java)
 
 A simple library for making your java programming life easier.
 
+Features:
+
+1. Calculate sum of array
+
+2. Check prime number
+
+3. Check even or odd number
+
+4. Reverse a number
+
+5. Calculate area of a circle
+
+6. Calculate area of a rectangle
+
+7. Capture screenshot
+
+8. Bubble sort, Insertion sort, Selection sort, Merge sort, Quick sort and Heap sort on Integer, Double, Float, String arrays.
+
+9. Search number in an array
+
+Usage: Please see the sample code provided in the respository.
+
 
 License
 -------
